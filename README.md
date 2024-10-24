@@ -83,7 +83,12 @@ Click the **Play** button in Unity Editor to run the game and test it.
 
 ## Screenshots
 
+![Flappy Bird Image](FB%20Img/FB1.png)
 *Screenshot of in-game flappy bird flying through pipes.*
+
+![Flappy Bird Image](FB%20Img/FB2.png)
+*Screenshot of in-game flappy bird GAME OVER.*
+
 
 ---
 
