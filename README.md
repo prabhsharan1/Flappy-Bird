@@ -35,7 +35,7 @@ To set up and run this project on your local machine, follow these steps:
 1. **Clone the Repository**:  
    Clone the project to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-unity.git
+   git clone https://github.com/prabhsharan1/flappy-bird.git
    ```
 ### Open Unity Hub:
 
